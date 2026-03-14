@@ -19,7 +19,7 @@ Communicate insights clearly through storytelling and visual design
 Data Sources
 Primary Dataset
 
-Azure SQL Database: online_sales_retailer
+online_sales_retailer
 
 Tables used:
 
@@ -36,6 +36,7 @@ Self-sourced dataset related to the e-commerce industry
 Used to enrich analysis and provide additional business context
 
 Mission Breakdown
+
 🔹 Mission X – Data Visualization & Storytelling (Power BI)
 Data Preparation
 
