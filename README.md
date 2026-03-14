@@ -11,8 +11,7 @@ Built an end-to-end analytics solution for a fictional e-commerce company, inclu
 - Designed interactive dashboards with filters and slicers  
 
 ## Deliverables
-- Interactive Power BI dashboard  
-- Analytical report (PDF/PowerPoint) 
+- Interactive Power BI dashboard
 
 ## Skills
 Power BI, DAX, forecasting, visualization, business analytics
