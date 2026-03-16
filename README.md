@@ -1,9 +1,7 @@
 # E-Commerce Analysis (Power BI)
 
-Power BI project analyzing e-commerce data to generate actionable business insights.
-
 ## Overview
-Built an end-to-end analytics solution for a fictional e-commerce company, including **data cleaning, transformation, modeling, and dashboard visualization**.
+Built an end-to-end Power BI analytics solution for e-commerce data, including cleaning, transformation, modeling, and dashboard visualization, delivering actionable business insights.
 
 ## Workflow & Tools
 - Cleaned data with **Power Query** and created a **star schema model**  
